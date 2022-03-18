@@ -12,6 +12,10 @@ If Ray.Di cannot be created by Ray.Di, the existing Laravel controller factory w
 composer require ray/ray-di-for-laravel
 ````
 
+## Requirement
+
+Laravel 8 and 9
+
 ## Use
 
 Copy the module that describes the binding.
